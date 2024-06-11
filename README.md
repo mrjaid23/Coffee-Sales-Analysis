@@ -15,7 +15,7 @@ The primary objectives of this project are:
 - To offer a user-friendly interface for exploring sales data based on various filters such as Date, Coffee Roast type, Loyalty card status, and Product size.
 
 ### Tools
-Excel 
+- Excel 
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
