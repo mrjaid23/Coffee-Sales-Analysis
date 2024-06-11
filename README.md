@@ -6,8 +6,8 @@ Welcome to the Coffee Sales Dashboard project! This repository contains a compre
 ### Objectives
 The primary objectives of this project are:
 
-To create a dynamic Excel dashboard to visualize coffee sales data over time.
-To identify top customers based on sales.
-To analyze sales distribution across different countries.
-To offer a user-friendly interface for exploring sales data based on various filters such as Date, Coffee Roast type, Loyalty card status, and Product size.
+- To create a dynamic Excel dashboard to visualize coffee sales data over time.
+- To identify top customers based on sales.
+- To analyze sales distribution across different countries.
+- To offer a user-friendly interface for exploring sales data based on various filters such as Date, Coffee Roast type, Loyalty card status, and Product size.
 
