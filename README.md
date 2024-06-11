@@ -43,5 +43,5 @@ In the initial data preparation phase, we performed the following tasks:
 - Loyalty Card: Segment data by customers with or without a loyalty card.
 - Size: Filter sales based on product size.
 
-### Dashboard Screenshot
+### Insights
 ![Coffee Sales Dashboard](coffee_sales_dashbord.png)
