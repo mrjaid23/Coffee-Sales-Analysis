@@ -26,23 +26,21 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results
 >Key Features
-Total Sales Over Time:
+1. **Total Sales Over Time:**
+- Visual representation of sales trends from January 2019 to July 2022.
+- Sales data segregated by different coffee types: Arabica, Excelsa, Liberica, and Robusta.
 
-Visual representation of sales trends from January 2019 to July 2022.
-Sales data segregated by different coffee types: Arabica, Excelsa, Liberica, and Robusta.
-Top 5 Customers:
+2. **Top 5 Customers:**
+- Bar chart highlighting the top 5 customers by sales value.
+- Provides insights into key customer contributions to overall sales.
 
-Bar chart highlighting the top 5 customers by sales value.
-Provides insights into key customer contributions to overall sales.
-Sales by Country:
-
-Comparative analysis of sales across different countries.
-Focus on major markets: United States, Ireland, and United Kingdom.
-Interactive Filters:
-
-Order Date: Select specific time periods to analyze sales.
-Roast Type: Filter data based on the type of roast (Dark, Light, Medium).
-Loyalty Card: Segment data by customers with or without a loyalty card.
-Size: Filter sales based on product size (0.2 ltrs, 0.5 ltrs, 1.0 ltrs, 2.5 ltrs).
+3. **Sales by Country:**
+- Comparative analysis of sales across different countries - United States, Ireland, and United Kingdom.
+ 
+4. **Interactive Filters:**
+- Order Date: Select specific time periods to analyze sales.
+- Roast Type: Filter data based on the type of roast (Dark, Light, Medium).
+- Loyalty Card: Segment data by customers with or without a loyalty card.
+- Size: Filter sales based on product size.
 
 
