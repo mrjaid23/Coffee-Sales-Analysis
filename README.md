@@ -14,3 +14,13 @@ The primary objectives of this project are:
 - To analyze sales distribution across different countries.
 - To offer a user-friendly interface for exploring sales data based on various filters such as Date, Coffee Roast type, Loyalty card status, and Product size.
 
+### Tools
+Excel 
+
+### Data Cleaning/Preparation
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection
+2. Handling of missing data
+3. Data cleaning and formatting
+4. Carrying out Advanced Excel techniques - Xlookup, Index Match, Data validation and Pivot tables
+
